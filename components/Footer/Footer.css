@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+
+footer{
+	color: black!important;
+
+}
+
+.text-muted{
+	color: black!important;
+}
+@media only screen and (max-width: 768px){
+	.text-muted{
+		font-size: 7px!important;
+	}
+}
